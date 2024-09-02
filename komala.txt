@@ -1,1 +1,3 @@
 halo semuanya
+
+hari ini kita belajar tentang GIt dan GitHub lanhjutan
